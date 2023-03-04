@@ -3,12 +3,12 @@
 Description: MyWebClass.org is a web-based learning platform that aims to provide an interactive and engaging learning experience to users. The initiative is focused on developing the platform and enhancing its features and functionalities.
 Goals:
 1. To enhance the user experience by implementing user-friendly features and functionalities.
-2. Implement interactive quizzes and assessments to increase user engagement.
+2. Implement interactive quizzes, assessments to increase user engagement.
 3. To develop a "pull" process for the development of the MyWebClass product. 
 4. To create a website that meets W3C validation standards, achieves high performance and accessibility scores in Lighthouse, and complies with GDPR regulations, in order to provide a user-friendly and legally compliant experience for website visitors.
 5. To implement Google Analytics on the website in a legally compliant manner, enabling us to accurately measure user behavior and engagement on the site.
 
-Scope: The initiative will focus on the development of the MyWebClass.org platform, including its features and functionalities. The development process will involve designing, coding, testing, and implementing new features.
+Scope: The initiative will focus on the development of the MyWebClass.org platform, including its features and functionalities. The development process will involve designing, coding, testing, and implementing new features.Mywebclass functions will be updated based on user reviews.
 
 
 Outcomes: The expected outcomes of the initiative include an enhanced user experience, increased engagement of users, and improved platform usability. The implementation of a "pull" process will also lead to better collaboration among the team members and improved project management.
