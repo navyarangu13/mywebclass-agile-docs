@@ -1,15 +1,22 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Implement Notification System for Upcoming Assignments and Deadlines
 
-User Story: [Reference the user story that this task supports]
+User Story: As a student, I want to receive timely notifications for upcoming assignments and deadlines on mywebclass.org so that I can manage my time effectively and submit my work on time.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Description: The task requires implementing a notification system on mywebclass.org for students to receive timely reminders for their upcoming assignments and deadlines. 
+             The notifications should be sent through email  and should include details such as the name of the assignment, due date, and any additional instructions. The notification system should be integrated with the assignment tracking system so that students can easily mark assignments as complete or update their status. The acceptance criteria for this task include:
+               
+1. The notification system should be accessible from the student dashboard.
+2. The notifications should be sent based on the student's preferences and settings.
+3. The notifications should include relevant details such as the name of the assignment, due date, and any additional instructions.
+4. The notification system should be integrated with the assignment tracking system so that students can easily mark assignments as complete or update their status.
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Effort Estimate: 8 hours
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Assigned To: development team
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Priority: High
 
-Notes: [Include]
+Status: Not started
+
+Notes: None
