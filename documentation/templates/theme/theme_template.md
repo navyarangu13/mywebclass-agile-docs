@@ -1,5 +1,8 @@
 As a learner on MyWebClass.org, I want to be able to easily search for relevant courses and filter results by various criteria so that I can quickly find the courses that best match my needs. By implementing an advanced search and filtering feature on the platform, we can enhance the user experience and increase engagement with the platform. This will enable us to increase course enrollment, which is a key objective for MyWebClass.org. By following the user-centered design methodology and adhering to accessibility principles, we can quickly and effectively deliver a search and filtering feature that is easy to use and meets the needs of all users, including those with disabilities. Mywebclass.org should meet a W3C validation standards, achieves high performance and accessibility scores in Lighthouse, and complies with GDPR regulations, in order to provide a user-friendly and legally compliant experience for website visitors.Also using “pull” approach to develop the mywebclass.org.This project deliverable will help position MyWebClass.org as a leading online learning platform and set us up for long-term success by establishing a loyal user base and attracting new learners to the platform.
 
 
-# List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+
+
+
+Initiative 
+MyWebClass.org Development
