@@ -1,16 +1,23 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
 
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
-
+As a learner, I want to be able to filter search results by various criteria so that I can quickly find the courses that match my needs.
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+1. The filtering options are displayed on the search results page and are easy to access and use.
+2. The filtering options include course category, price range, rating, language, and duration.
+3. The filtering options update the search results instantly and accurately reflect the user's preferences.
+4. The filtering options are clear and concise, with helpful tooltips and instructions for the user.
+ 
+
+As a learner, I want to be able to search for courses by keyword so that I can find the relevant courses easily.
+Acceptance Criteria:
+
+1. The search bar is prominently displayed on the website's homepage and all course pages.
+2. The search function returns relevant results based on the keywords entered.
+3. The search results page displays a list of courses that match the search criteria, including the course name, description, image, price, and rating.
+4. The search results can be sorted by relevance, price, and rating.
+5. The search function supports auto-complete and suggestions based on the user's search query.
+6. The search function works on both desktop and mobile devices.
+7. The search function is easy to use and intuitive, with clear instructions and prompts for the user.
 
 
 # List Stories related to this theme
