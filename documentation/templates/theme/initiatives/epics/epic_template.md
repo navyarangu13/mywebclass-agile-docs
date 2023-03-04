@@ -15,6 +15,8 @@ User Stories:
 3. As a user, I want to be able to interact and collaborate with other users and instructors on the platform.
 4. As an instructor, I want to be able to create and manage my courses easily and efficiently.
 5. As an administrator, I want to be able to manage user accounts and course content effectively.
+6. As a student with dyslexia, I want the option to change the font type and size, and use text-to-speech software, so that I can easily read and comprehend the course materials.
+7. As a student with limited mobility, I want the classroom to be wheelchair accessible, and for the seating arrangements to be arranged in such a way that it's easy for me to maneuver around the classroom.v
 
 
 Dependencies: 
