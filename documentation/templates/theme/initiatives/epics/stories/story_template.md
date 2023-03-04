@@ -21,4 +21,7 @@ Acceptance Criteria:
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. As a learner, I want to be able to search for courses by keyword so that I can find the relevant courses easily.
+2. As a learner, I want to be able to filter search results by various criteria so that I can quickly find the courses that match my needs.
+3. As a learner, I want to be able to bookmark courses and save them for later so that I can easily find them again.
+4. As a learner, I want to be able to view the course details and curriculum before enrolling in the course so that I can make an informed decision.
