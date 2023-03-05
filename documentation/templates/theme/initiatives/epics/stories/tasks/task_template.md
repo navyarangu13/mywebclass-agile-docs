@@ -11,7 +11,7 @@ Description: The task requires implementing a notification system on mywebclass.
 3. The notifications should include relevant details such as the name of the assignment, due date, and any additional instructions.
 4. The notification system should be integrated with the assignment tracking system so that students can easily mark assignments as complete or update their status.
 
-Effort Estimate: 8 hours
+Effort Estimate: 10 hours
 
 Assigned To: development team
 
